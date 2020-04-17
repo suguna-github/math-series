@@ -1,5 +1,5 @@
-from math_series import __version__
+from math_series import series
 
 
-def test_version():
+def test_fibonacci(0):
     assert __version__ == '0.1.0'
